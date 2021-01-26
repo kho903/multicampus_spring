@@ -1,0 +1,31 @@
+2021-01-26 16:36:05,330 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-01-26 16:40:14,514 [Worker-28: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: teamproject:teamproject:0.0.1-SNAPSHOT @ C:\Users\82102\Desktop\multicampus\자바수업 2주차\웹과정\teamproject\teamproject\pom.xml.
+2021-01-26 16:40:19,050 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-26 16:40:19,088 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\82102\Desktop\multicampus\자바수업 2주차\웹과정\teamproject\teamproject\src\main\resources
+2021-01-26 16:40:19,112 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-26 16:40:19,140 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\82102\Desktop\multicampus\자바수업 2주차\웹과정\teamproject\teamproject\src\test\resources
+2021-01-26 16:40:19,247 [Worker-28: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /teamproject/src
+2021-01-26 16:40:19,249 [Worker-28: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /teamproject/src/test/java because it overlaps with /teamproject/src
+2021-01-26 16:40:21,419 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-26 16:40:21,468 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\82102\Desktop\multicampus\자바수업 2주차\웹과정\teamproject\teamproject\src\main\resources
+2021-01-26 16:40:21,471 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-26 16:40:21,502 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\82102\Desktop\multicampus\자바수업 2주차\웹과정\teamproject\teamproject\src\test\resources
+2021-01-26 16:40:22,028 [Worker-28: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-01-26 16:40:23,685 [Worker-28: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: teamproject:teamproject:0.0.1-SNAPSHOT @ C:\Users\82102\Desktop\multicampus\자바수업 2주차\웹과정\teamproject\teamproject\pom.xml.
+2021-01-26 16:40:25,692 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-26 16:40:25,720 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\82102\Desktop\multicampus\자바수업 2주차\웹과정\teamproject\teamproject\src\main\resources
+2021-01-26 16:40:25,725 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-26 16:40:25,751 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\82102\Desktop\multicampus\자바수업 2주차\웹과정\teamproject\teamproject\src\test\resources
+2021-01-26 16:40:25,752 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of teamproject
+2021-01-26 16:40:25,754 [Worker-27: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for teamproject
+2021-01-26 16:40:25,790 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-26 16:40:25,870 [Worker-28: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /teamproject/src
+2021-01-26 16:40:25,871 [Worker-28: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /teamproject/src/test/java because it overlaps with /teamproject/src
+2021-01-26 16:40:26,570 [Worker-28: Enabling Maven Dependency Management] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for teamproject
+2021-01-26 16:40:26,604 [Worker-28: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2021-01-26 16:40:29,951 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-26 16:40:29,960 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\82102\Desktop\multicampus\자바수업 2주차\웹과정\teamproject\teamproject\src\main\resources
+2021-01-26 16:40:29,961 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-26 16:40:29,969 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\82102\Desktop\multicampus\자바수업 2주차\웹과정\teamproject\teamproject\src\test\resources
+2021-01-26 16:40:29,970 [Worker-29: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of teamproject
+2021-01-26 16:40:29,970 [Worker-29: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for teamproject
