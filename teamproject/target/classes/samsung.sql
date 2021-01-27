@@ -7,11 +7,13 @@ create table users (
 );
 
 create table pic (
+
     user_pic_no number(11) primary key,
     user_id varchar2(20),
     file_name varchar2(100) not null,
     file_size varchar2(50) not null,
     file_data BLOB not null,
+    
     constraint fk_user_id_pic foreign key(user_id) references users(user_id) on delete cascade
 );
 
@@ -24,6 +26,7 @@ create table contents (
     tag varchar2(20) not null,
     like_count number(11) default 0,
     create_date date,
+    
     constraint fk_user_id foreign key(user_id) references users(user_id) on delete cascade
 );
 
@@ -35,6 +38,7 @@ create table comments (
     user_id varchar2(20) not null,
     comment_text varchar2(300) not null,
     create_date date,
+    
     constraint fk_content_no foreign key(content_no) references contents(content_no) on delete cascade,
     constraint fk_user_id_comments foreign key(user_id) references users(user_id) on delete cascade
 );
