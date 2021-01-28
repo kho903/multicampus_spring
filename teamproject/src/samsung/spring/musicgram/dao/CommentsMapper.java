@@ -8,7 +8,7 @@ import samsung.spring.musicgram.dto.Comments;
 
 @Mapper
 public interface CommentsMapper {
-	public List<Comments> getComments(int contents_no);
-	public int deleteComments(int comment_no);
+	public List<Comments> getComments(int content_no);
+	public int deleteComments(int content_no);
 	public int createComment(Comments comment);
 }
