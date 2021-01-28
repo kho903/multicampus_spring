@@ -2,7 +2,6 @@ package samsung.spring.musicgram.config;
 
 import javax.servlet.Filter;
 
-import org.apache.catalina.filters.FailedRequestFilter;
 import org.springframework.web.filter.CharacterEncodingFilter;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
